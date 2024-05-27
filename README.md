@@ -1,2 +1,1 @@
-The objective of this internship project is to perform entity-level sentiment analysis on YouTube comments using provided training and validation datasets. Given a comment and a specified entity (e.g., video ID or creator name), the task is to classify the sentiment of the comment as Positive, Negative, or Neutral, with messages irrelevant to the entity also categorized as Neutral. 
-![image](https://github.com/Dajak01/Sentiment_Analysis/assets/131304505/2058346c-b0c8-4cbd-9772-0d9e1f24fbee)
+
